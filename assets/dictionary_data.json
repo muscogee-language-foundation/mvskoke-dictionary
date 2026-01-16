@@ -1,0 +1,3658 @@
+{
+    "config": {
+        "L1": "Mvskoke",
+        "L2": "English",
+        "l1_search_strategy": "weighted_levenstein",
+        "l2_search_strategy": "liblevenstein_automata",
+        "l1_search_config": {
+            "insertionCost": 1.0,
+            "deletionCost": 1.0,
+            "insertionAtBeginningCost": 1.0,
+            "deletionAtEndCost": 1.0,
+            "substitutionCosts": {},
+            "substitutionCostsPath": null,
+            "defaultSubstitutionCost": 1.0
+        },
+        "l2_search_config": null,
+        "l1_stemmer": "none",
+        "l2_stemmer": "snowball_english",
+        "l1_normalization_transducer": {
+            "lower": true,
+            "unicode_normalization": "NFC",
+            "remove_punctuation": "[.,/#!$%^&?*';:{}=\\-_`~()]",
+            "remove_combining_characters": true,
+            "replace_rules": null
+        },
+        "l2_normalization_transducer": {
+            "lower": true,
+            "unicode_normalization": "NFC",
+            "remove_punctuation": "[.,/#!$%^&?*';:{}=\\-_`~()]",
+            "remove_combining_characters": true,
+            "replace_rules": null
+        },
+        "alphabet": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "m",
+            "n",
+            "o",
+            "p",
+            "q",
+            "r",
+            "s",
+            "t",
+            "u",
+            "v",
+            "w",
+            "x",
+            "y",
+            "z",
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "X",
+            "Y",
+            "Z"
+        ],
+        "optional_field_name": "Optional Field",
+        "credits": null,
+        "aboutPageImg": "https://placehold.co/600x400",
+        "aboutPageDescription": "Please change this text to describe your dictionary in a bit more detail.",
+        "build": "1768551884"
+    },
+    "data": [
+        {
+            "word": "Accvke hute",
+            "definition": "clothes closet",
+            "entryID": "YourData01",
+            "sorting_form": [
+                26,
+                2,
+                2,
+                21,
+                10,
+                4,
+                10032,
+                7,
+                20,
+                19,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Afvcketv",
+            "definition": "to be happy",
+            "entryID": "YourData029",
+            "sorting_form": [
+                26,
+                5,
+                21,
+                2,
+                10,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Coko hospv",
+            "definition": "wall",
+            "entryID": "YourData02",
+            "sorting_form": [
+                28,
+                14,
+                10,
+                14,
+                10032,
+                7,
+                14,
+                18,
+                15,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Cokv hute",
+            "definition": "mailbox",
+            "entryID": "YourData03",
+            "sorting_form": [
+                28,
+                14,
+                10,
+                21,
+                10032,
+                7,
+                20,
+                19,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Cuko onvpv",
+            "definition": "roof",
+            "entryID": "YourData04",
+            "sorting_form": [
+                28,
+                20,
+                10,
+                14,
+                10032,
+                14,
+                13,
+                21,
+                15,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Cvfekne",
+            "definition": "to be well",
+            "entryID": "YourData030",
+            "sorting_form": [
+                28,
+                21,
+                5,
+                4,
+                10,
+                13,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Cvpake",
+            "definition": "to be angry",
+            "entryID": "YourData031",
+            "sorting_form": [
+                28,
+                21,
+                15,
+                0,
+                10,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Enheretv",
+            "definition": "to like someone",
+            "entryID": "YourData035",
+            "sorting_form": [
+                30,
+                13,
+                7,
+                4,
+                17,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Enhotetv",
+            "definition": "to be anxious",
+            "entryID": "YourData036",
+            "sorting_form": [
+                30,
+                13,
+                7,
+                14,
+                19,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Enkusvpketv",
+            "definition": "to be in need of",
+            "entryID": "YourData037",
+            "sorting_form": [
+                30,
+                13,
+                10,
+                20,
+                18,
+                21,
+                15,
+                10,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Enokketv",
+            "definition": "to be hurt/sick",
+            "entryID": "YourData038",
+            "sorting_form": [
+                30,
+                13,
+                14,
+                10,
+                10,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Entaketv",
+            "definition": "to be ready",
+            "entryID": "YourData039",
+            "sorting_form": [
+                30,
+                13,
+                19,
+                0,
+                10,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Eshvweckv",
+            "definition": "key",
+            "entryID": "YourData05",
+            "sorting_form": [
+                30,
+                18,
+                7,
+                21,
+                22,
+                4,
+                2,
+                10,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Est akheckv",
+            "definition": "mirror",
+            "entryID": "YourData06",
+            "sorting_form": [
+                30,
+                18,
+                19,
+                10032,
+                0,
+                10,
+                7,
+                4,
+                2,
+                10,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Fekcakhetv",
+            "definition": "to be jealous",
+            "entryID": "YourData040",
+            "sorting_form": [
+                31,
+                4,
+                10,
+                2,
+                0,
+                10,
+                7,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Fekheretv",
+            "definition": "to be content",
+            "entryID": "YourData041",
+            "sorting_form": [
+                31,
+                4,
+                10,
+                7,
+                4,
+                17,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Feknokketv",
+            "definition": "to be sad",
+            "entryID": "YourData042",
+            "sorting_form": [
+                31,
+                4,
+                10,
+                13,
+                14,
+                10,
+                10,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Holwvyecetv",
+            "definition": "to be mean",
+            "entryID": "YourData043",
+            "sorting_form": [
+                33,
+                14,
+                11,
+                22,
+                21,
+                24,
+                4,
+                2,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Hotosetv",
+            "definition": "to be tired",
+            "entryID": "YourData044",
+            "sorting_form": [
+                33,
+                14,
+                19,
+                14,
+                18,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Hvsetecetv / Hvsvthicetv",
+            "definition": "to clean",
+            "entryID": "YourData07",
+            "sorting_form": [
+                33,
+                21,
+                18,
+                4,
+                19,
+                4,
+                2,
+                4,
+                19,
+                21,
+                10032,
+                10047,
+                10032,
+                33,
+                21,
+                18,
+                21,
+                19,
+                7,
+                8,
+                2,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Hvsvtke / hvsvthake",
+            "definition": "clean",
+            "entryID": "YourData08",
+            "sorting_form": [
+                33,
+                21,
+                18,
+                21,
+                19,
+                10,
+                4,
+                10032,
+                10047,
+                10032,
+                7,
+                21,
+                18,
+                21,
+                19,
+                7,
+                0,
+                10,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Kolecetv",
+            "definition": "to turn on the light",
+            "entryID": "YourData09",
+            "sorting_form": [
+                36,
+                14,
+                11,
+                4,
+                2,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Kulke",
+            "definition": "light / lamp / candle",
+            "entryID": "YourData010",
+            "sorting_form": [
+                36,
+                20,
+                11,
+                10,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Lopicetv",
+            "definition": "to be nice",
+            "entryID": "YourData045",
+            "sorting_form": [
+                37,
+                14,
+                15,
+                8,
+                2,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Nak soh vpokv",
+            "definition": "shelf",
+            "entryID": "YourData011",
+            "sorting_form": [
+                39,
+                0,
+                10,
+                10032,
+                18,
+                14,
+                7,
+                10032,
+                21,
+                15,
+                14,
+                10,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Nak vccetv",
+            "definition": "blanket",
+            "entryID": "YourData012",
+            "sorting_form": [
+                39,
+                0,
+                10,
+                10032,
+                21,
+                2,
+                2,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Nvthofv",
+            "definition": "room",
+            "entryID": "YourData013",
+            "sorting_form": [
+                39,
+                21,
+                19,
+                7,
+                14,
+                5,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Ohhompetv",
+            "definition": "dinner table / table",
+            "entryID": "YourData014",
+            "sorting_form": [
+                40,
+                7,
+                7,
+                14,
+                12,
+                15,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Ohliketv",
+            "definition": "chair",
+            "entryID": "YourData015",
+            "sorting_form": [
+                40,
+                7,
+                11,
+                8,
+                10,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Ohliketv cvpke",
+            "definition": "couch",
+            "entryID": "YourData016",
+            "sorting_form": [
+                40,
+                7,
+                11,
+                8,
+                10,
+                4,
+                19,
+                21,
+                10032,
+                2,
+                21,
+                15,
+                10,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Pasetv",
+            "definition": "to sweep",
+            "entryID": "YourData017",
+            "sorting_form": [
+                41,
+                0,
+                18,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Penkvletv",
+            "definition": "to be scared",
+            "entryID": "YourData046",
+            "sorting_form": [
+                41,
+                4,
+                13,
+                10,
+                21,
+                11,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Setem ponvhokv",
+            "definition": "phone",
+            "entryID": "YourData018",
+            "sorting_form": [
+                44,
+                4,
+                19,
+                4,
+                12,
+                10032,
+                15,
+                14,
+                13,
+                21,
+                7,
+                14,
+                10,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Svmpv",
+            "definition": "basket",
+            "entryID": "YourData019",
+            "sorting_form": [
+                44,
+                21,
+                12,
+                15,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Takpvtakv",
+            "definition": "floor / rug / carpet",
+            "entryID": "YourData020",
+            "sorting_form": [
+                45,
+                0,
+                10,
+                15,
+                21,
+                19,
+                0,
+                10,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Tohopke",
+            "definition": "fence",
+            "entryID": "YourData021",
+            "sorting_form": [
+                45,
+                14,
+                7,
+                14,
+                15,
+                10,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Vholwicetv / Vholwahuecetv",
+            "definition": "to dirty",
+            "entryID": "YourData022",
+            "sorting_form": [
+                47,
+                7,
+                14,
+                11,
+                22,
+                8,
+                2,
+                4,
+                19,
+                21,
+                10032,
+                10047,
+                10032,
+                47,
+                7,
+                14,
+                11,
+                22,
+                0,
+                7,
+                20,
+                4,
+                2,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Vholwvke / vholwahoke, Lekvcwe / Lekvclewe",
+            "definition": "dirty",
+            "entryID": "YourData023",
+            "sorting_form": [
+                47,
+                7,
+                14,
+                11,
+                22,
+                21,
+                10,
+                4,
+                10032,
+                10047,
+                10032,
+                21,
+                7,
+                14,
+                11,
+                22,
+                0,
+                7,
+                14,
+                10,
+                4,
+                10044,
+                10032,
+                37,
+                4,
+                10,
+                21,
+                2,
+                22,
+                4,
+                10032,
+                10047,
+                10032,
+                37,
+                4,
+                10,
+                21,
+                2,
+                11,
+                4,
+                22,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Vhvoke",
+            "definition": "door",
+            "entryID": "YourData024",
+            "sorting_form": [
+                47,
+                7,
+                21,
+                14,
+                10,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Vhvoke senfolotkv",
+            "definition": "door knob",
+            "entryID": "YourData025",
+            "sorting_form": [
+                47,
+                7,
+                21,
+                14,
+                10,
+                4,
+                10032,
+                18,
+                4,
+                13,
+                5,
+                14,
+                11,
+                14,
+                19,
+                10,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Vhvokuce",
+            "definition": "window",
+            "entryID": "YourData026",
+            "sorting_form": [
+                47,
+                7,
+                21,
+                14,
+                10,
+                20,
+                2,
+                4
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Vhvokuce ohrvnvkv",
+            "definition": "window blind",
+            "entryID": "YourData027",
+            "sorting_form": [
+                47,
+                7,
+                21,
+                14,
+                10,
+                20,
+                2,
+                4,
+                10032,
+                14,
+                7,
+                17,
+                21,
+                13,
+                21,
+                10,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "Vtopv",
+            "definition": "ceiling",
+            "entryID": "YourData028",
+            "sorting_form": [
+                47,
+                19,
+                14,
+                15,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "\u0112kvsvmetv",
+            "definition": "to be proud",
+            "entryID": "YourData032",
+            "sorting_form": [
+                10274,
+                10,
+                21,
+                18,
+                21,
+                12,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "\u0112lesketv",
+            "definition": "to be jealous",
+            "entryID": "YourData033",
+            "sorting_form": [
+                10274,
+                11,
+                4,
+                18,
+                10,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        },
+        {
+            "word": "\u0112naoricetv",
+            "definition": "to be worried",
+            "entryID": "YourData034",
+            "sorting_form": [
+                10274,
+                13,
+                0,
+                14,
+                17,
+                8,
+                2,
+                4,
+                19,
+                21
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData"
+        }
+    ],
+    "l1_index": {
+        "accvke": {
+            "YourData01": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "hute": {
+            "YourData01": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.405596622285568,
+                    "total": 2.405596622285568
+                }
+            },
+            "YourData03": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.405596622285568,
+                    "total": 2.405596622285568
+                }
+            }
+        },
+        "kulke": {
+            "YourData010": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "nak": {
+            "YourData011": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 1.8938201569072408,
+                    "total": 1.8938201569072408
+                }
+            },
+            "YourData012": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.405596622285568,
+                    "total": 2.405596622285568
+                }
+            }
+        },
+        "soh": {
+            "YourData011": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.2444380466836527,
+                    "total": 2.2444380466836527
+                }
+            }
+        },
+        "vpokv": {
+            "YourData011": {
+                "location": [
+                    [
+                        "word",
+                        2
+                    ]
+                ],
+                "score": {
+                    "word": 2.2444380466836527,
+                    "total": 2.2444380466836527
+                }
+            }
+        },
+        "vccetv": {
+            "YourData012": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "nvthofv": {
+            "YourData013": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "ohhompetv": {
+            "YourData014": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "ohliketv": {
+            "YourData015": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.296398949321548,
+                    "total": 3.296398949321548
+                }
+            },
+            "YourData016": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.405596622285568,
+                    "total": 2.405596622285568
+                }
+            }
+        },
+        "cvpke": {
+            "YourData016": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "pasetv": {
+            "YourData017": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "setem": {
+            "YourData018": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "ponvhokv": {
+            "YourData018": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "svmpv": {
+            "YourData019": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "coko": {
+            "YourData02": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "hospv": {
+            "YourData02": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "takpvtakv": {
+            "YourData020": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "tohopke": {
+            "YourData021": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "vholwicetv": {
+            "YourData022": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "vholwahuecetv": {
+            "YourData022": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "vholwvke": {
+            "YourData023": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 1.8507103554433848,
+                    "total": 1.8507103554433848
+                }
+            }
+        },
+        "vholwahoke": {
+            "YourData023": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 1.8507103554433848,
+                    "total": 1.8507103554433848
+                }
+            }
+        },
+        "lekvcwe": {
+            "YourData023": {
+                "location": [
+                    [
+                        "word",
+                        2
+                    ]
+                ],
+                "score": {
+                    "word": 1.8507103554433848,
+                    "total": 1.8507103554433848
+                }
+            }
+        },
+        "lekvclewe": {
+            "YourData023": {
+                "location": [
+                    [
+                        "word",
+                        3
+                    ]
+                ],
+                "score": {
+                    "word": 1.8507103554433848,
+                    "total": 1.8507103554433848
+                }
+            }
+        },
+        "vhvoke": {
+            "YourData024": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.296398949321548,
+                    "total": 3.296398949321548
+                }
+            },
+            "YourData025": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.405596622285568,
+                    "total": 2.405596622285568
+                }
+            }
+        },
+        "senfolotkv": {
+            "YourData025": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "vhvokuce": {
+            "YourData026": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.296398949321548,
+                    "total": 3.296398949321548
+                }
+            },
+            "YourData027": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.405596622285568,
+                    "total": 2.405596622285568
+                }
+            }
+        },
+        "ohrvnvkv": {
+            "YourData027": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "vtopv": {
+            "YourData028": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "afvcketv": {
+            "YourData029": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "cokv": {
+            "YourData03": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "cvfekne": {
+            "YourData030": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "cvpake": {
+            "YourData031": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "ekvsvmetv": {
+            "YourData032": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "elesketv": {
+            "YourData033": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "enaoricetv": {
+            "YourData034": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "enheretv": {
+            "YourData035": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "enhotetv": {
+            "YourData036": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "enkusvpketv": {
+            "YourData037": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "enokketv": {
+            "YourData038": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "entaketv": {
+            "YourData039": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "cuko": {
+            "YourData04": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "onvpv": {
+            "YourData04": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "fekcakhetv": {
+            "YourData040": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "fekheretv": {
+            "YourData041": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "feknokketv": {
+            "YourData042": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "holwvyecetv": {
+            "YourData043": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "hotosetv": {
+            "YourData044": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "lopicetv": {
+            "YourData045": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "penkvletv": {
+            "YourData046": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "eshvweckv": {
+            "YourData05": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        },
+        "est": {
+            "YourData06": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "akheckv": {
+            "YourData06": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "hvsetecetv": {
+            "YourData07": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "hvsvthicetv": {
+            "YourData07": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "hvsvtke": {
+            "YourData08": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "hvsvthake": {
+            "YourData08": {
+                "location": [
+                    [
+                        "word",
+                        1
+                    ]
+                ],
+                "score": {
+                    "word": 2.8509637329284514,
+                    "total": 2.8509637329284514
+                }
+            }
+        },
+        "kolecetv": {
+            "YourData09": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 3.906687333494086,
+                    "total": 3.906687333494086
+                }
+            }
+        }
+    },
+    "l2_index": {
+        "cloth": {
+            "YourData01": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 3.53967553718749,
+                    "total": 3.53967553718749
+                }
+            }
+        },
+        "closet": {
+            "YourData01": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 3.53967553718749,
+                    "total": 3.53967553718749
+                }
+            }
+        },
+        "light": {
+            "YourData010": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 2.4587518849684367,
+                    "total": 2.4587518849684367
+                }
+            },
+            "YourData09": {
+                "location": [
+                    [
+                        "definition",
+                        4
+                    ]
+                ],
+                "score": {
+                    "definition": 1.8165289951407189,
+                    "total": 1.8165289951407189
+                }
+            }
+        },
+        "lamp": {
+            "YourData010": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "candl": {
+            "YourData010": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "shelf": {
+            "YourData011": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "blanket": {
+            "YourData012": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "room": {
+            "YourData013": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "dinner": {
+            "YourData014": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "tabl": {
+            "YourData014": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ],
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 4.344044834944291,
+                    "total": 4.344044834944291
+                }
+            }
+        },
+        "chair": {
+            "YourData015": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "couch": {
+            "YourData016": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "to": {
+            "YourData017": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.08833797545675029,
+                    "total": 0.08833797545675029
+                }
+            },
+            "YourData022": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.08833797545675029,
+                    "total": 0.08833797545675029
+                }
+            },
+            "YourData029": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData030": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData031": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData032": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData033": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData034": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData035": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData036": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData037": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.0537273238740109,
+                    "total": 0.0537273238740109
+                }
+            },
+            "YourData038": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData039": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData040": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData041": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData042": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData043": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData044": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData045": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData046": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.07272229576456642,
+                    "total": 0.07272229576456642
+                }
+            },
+            "YourData07": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.08833797545675029,
+                    "total": 0.08833797545675029
+                }
+            },
+            "YourData09": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.0537273238740109,
+                    "total": 0.0537273238740109
+                }
+            }
+        },
+        "sweep": {
+            "YourData017": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 3.53967553718749,
+                    "total": 3.53967553718749
+                }
+            }
+        },
+        "phone": {
+            "YourData018": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "basket": {
+            "YourData019": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "wall": {
+            "YourData02": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "floor": {
+            "YourData020": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "rug": {
+            "YourData020": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "carpet": {
+            "YourData020": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "fenc": {
+            "YourData021": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "dirti": {
+            "YourData022": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 2.9867203913880074,
+                    "total": 2.9867203913880074
+                }
+            },
+            "YourData023": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 3.8034325723884277,
+                    "total": 3.8034325723884277
+                }
+            }
+        },
+        "door": {
+            "YourData024": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 3.8034325723884277,
+                    "total": 3.8034325723884277
+                }
+            },
+            "YourData025": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 2.9867203913880074,
+                    "total": 2.9867203913880074
+                }
+            }
+        },
+        "knob": {
+            "YourData025": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 3.53967553718749,
+                    "total": 3.53967553718749
+                }
+            }
+        },
+        "window": {
+            "YourData026": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 3.8034325723884277,
+                    "total": 3.8034325723884277
+                }
+            },
+            "YourData027": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 2.9867203913880074,
+                    "total": 2.9867203913880074
+                }
+            }
+        },
+        "blind": {
+            "YourData027": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 3.53967553718749,
+                    "total": 3.53967553718749
+                }
+            }
+        },
+        "ceil": {
+            "YourData028": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "be": {
+            "YourData029": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData030": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData031": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData032": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData033": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData034": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData036": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData037": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.32945702360650203,
+                    "total": 0.32945702360650203
+                }
+            },
+            "YourData038": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData039": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData040": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData041": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData042": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData043": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData044": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData045": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            },
+            "YourData046": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.4459345708081176,
+                    "total": 0.4459345708081176
+                }
+            }
+        },
+        "happi": {
+            "YourData029": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "mailbox": {
+            "YourData03": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "well": {
+            "YourData030": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "angri": {
+            "YourData031": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "proud": {
+            "YourData032": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "jealous": {
+            "YourData033": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.4587518849684367,
+                    "total": 2.4587518849684367
+                }
+            },
+            "YourData040": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.4587518849684367,
+                    "total": 2.4587518849684367
+                }
+            }
+        },
+        "worri": {
+            "YourData034": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "like": {
+            "YourData035": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "someon": {
+            "YourData035": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "anxious": {
+            "YourData036": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "in": {
+            "YourData037": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.1528373614187637,
+                    "total": 2.1528373614187637
+                }
+            }
+        },
+        "need": {
+            "YourData037": {
+                "location": [
+                    [
+                        "definition",
+                        3
+                    ]
+                ],
+                "score": {
+                    "definition": 2.1528373614187637,
+                    "total": 2.1528373614187637
+                }
+            }
+        },
+        "of": {
+            "YourData037": {
+                "location": [
+                    [
+                        "definition",
+                        4
+                    ]
+                ],
+                "score": {
+                    "definition": 2.1528373614187637,
+                    "total": 2.1528373614187637
+                }
+            }
+        },
+        "hurtsick": {
+            "YourData038": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "readi": {
+            "YourData039": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "roof": {
+            "YourData04": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "content": {
+            "YourData041": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "sad": {
+            "YourData042": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "mean": {
+            "YourData043": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "tire": {
+            "YourData044": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "nice": {
+            "YourData045": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "scare": {
+            "YourData046": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.913960049401145,
+                    "total": 2.913960049401145
+                }
+            }
+        },
+        "key": {
+            "YourData05": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "mirror": {
+            "YourData06": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 4.507592097554479,
+                    "total": 4.507592097554479
+                }
+            }
+        },
+        "clean": {
+            "YourData07": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 2.9867203913880074,
+                    "total": 2.9867203913880074
+                }
+            },
+            "YourData08": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 3.8034325723884277,
+                    "total": 3.8034325723884277
+                }
+            }
+        },
+        "turn": {
+            "YourData09": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 2.1528373614187637,
+                    "total": 2.1528373614187637
+                }
+            }
+        },
+        "on": {
+            "YourData09": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 2.1528373614187637,
+                    "total": 2.1528373614187637
+                }
+            }
+        },
+        "the": {
+            "YourData09": {
+                "location": [
+                    [
+                        "definition",
+                        3
+                    ]
+                ],
+                "score": {
+                    "definition": 2.1528373614187637,
+                    "total": 2.1528373614187637
+                }
+            }
+        }
+    }
+}
