@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mvskoke_dictionary/database/database_helper.dart';
+import 'package:mvskoke_dictionary/managers/database_helper.dart';
 import 'package:mvskoke_dictionary/services/service_locator.dart';
 import 'package:mvskoke_dictionary/widgets/home_screen.dart';
 

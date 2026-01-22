@@ -6,7 +6,7 @@ class LexemeList extends StatelessWidget {
   const LexemeList({super.key, required this.results, required this.onItemTap});
 
   final List<SearchResult> results;
-  final void Function(int termId) onItemTap;
+  final void Function(String termId) onItemTap;
 
   @override
   Widget build(BuildContext context) {

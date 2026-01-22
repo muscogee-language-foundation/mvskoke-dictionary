@@ -1,9 +1,6 @@
 class SearchResult {
-  const SearchResult({
-    required this.termId,
-    required this.lexeme,
-  });
+  const SearchResult({required this.termId, required this.lexeme});
 
-  final int termId;
+  final String termId;
   final String lexeme;
 }

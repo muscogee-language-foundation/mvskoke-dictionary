@@ -9,7 +9,10 @@ Mvskoke language dictionary using the [Mother Tongues Dictionaries](https://gith
 - run the app with `flutter run` 
 
 ## To update the data
-- Follow instructions in the [dictionary-data](https://github.com/muscogee-language-foundation/dictionary-data) repo to build and export a new `dictionary_data.json` file
+- Follow instructions in the [dictionary-data](https://github.com/muscogee-language-foundation/dictionary-data) repo to install MTD and the get the data
+- cd `mothertongues`
+- run `poetry run mothertongues build-and-run <data_folder>/config.mtd.json `
+- `dictionary_data.json` file
 - replace the updated file into `assets/`
 
 ## About Flutter

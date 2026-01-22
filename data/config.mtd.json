@@ -1,0 +1,106 @@
+{
+    "config": {
+        "L1": "Mvskoke",
+        "L2": "English",
+        "l1_search_strategy": "weighted_levenstein",
+        "l2_search_strategy": "liblevenstein_automata",
+        "l1_search_config": {
+            "insertionCost": 1.0,
+            "deletionCost": 1.0,
+            "insertionAtBeginningCost": 1.0,
+            "deletionAtEndCost": 1.0,
+            "substitutionCosts": {},
+            "defaultSubstitutionCost": 1.0
+        },
+        "l1_stemmer": "none",
+        "l2_stemmer": "snowball_english",
+        "l1_normalization_transducer": {
+            "lower": true,
+            "unicode_normalization": "NFC",
+            "remove_punctuation": "[.,/#!$%^&?*';:{}=\\-_`~()]",
+            "remove_combining_characters": true
+        },
+        "l2_normalization_transducer": {
+            "lower": true,
+            "unicode_normalization": "NFC",
+            "remove_punctuation": "[.,/#!$%^&?*';:{}=\\-_`~()]",
+            "remove_combining_characters": true
+        },
+        "alphabet": [
+            "a",
+            "c",
+            "e",
+            "f",
+            "h",
+            "i",
+            "k",
+            "l",
+            "m",
+            "n",
+            "o",
+            "p",
+            "r",
+            "s",
+            "t",
+            "u",
+            "v",
+            "w",
+            "y",
+            "A",
+            "C",
+            "E",
+            "F",
+            "H",
+            "I",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "Y"
+        ],
+        "optional_field_name": "Optional Field",
+        "aboutPageImg": "https://placehold.co/600x400",
+        "aboutPageDescription": "Please change this text to describe your dictionary in a bit more detail.",
+        "build": "1768551884",
+        "no_sort_characters": [],
+        "sorting_field": "word",
+        "l1_keys_to_index": [
+            "word"
+        ],
+        "l2_keys_to_index": [
+            "definition"
+        ],
+        "duplicate_fields_subset": [
+            "word",
+            "entryID"
+        ],
+        "required_fields": [
+            "word",
+            "definition"
+        ]
+    },
+    "data": [
+        {
+            "manifest": {
+                "file_type": "xlsx",
+                "name": "YourData",
+                "skip_header": false,
+                "transducers": [],
+                "targets": {
+                    "word": "A",
+                    "definition": "B",
+                    "source": ""
+                }
+            },
+            "resource": "data.xlsx"
+        }
+    ]
+}
